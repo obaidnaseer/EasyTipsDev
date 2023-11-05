@@ -31,11 +31,11 @@ The interesting question is why the native function for extracting and achieving
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1699173134632/54b4f185-4970-464d-a931-6b0dee44814f.png align="center")
 
-The main reason is down to the software itself. Perhaps Microsoft has thought that the software functions well enough, so they have not bothered to not improve the in-built tool.
+The main reason is down to the software itself. Perhaps Microsoft has thought that the software functions well enough, so they have not bothered to not improve the inbuilt tool.
 
 Microsoft's thinking may be true for small everyday files, but not for larger files. Larger files still lack in speed in both extracting and archiving compared to faster and more functional third-party tools.
 
-Another probable reason for being relatively slow (though not applicable to every user) is the Windows systems running alongside the zip tool. One main script is the Windows Defender script, which checks each file before extracting. This can cause a delay in each file check, adding to the extraction time.
+Another probable reason for being relatively slow (though not applicable to every user) is the Windows systems running alongside the zip tool. One major background system is the Windows Defender script, which checks each file before extracting. This can cause a delay in each file check, adding to the extraction time.
 
 ## The Zip Tool You Need to Use
 
