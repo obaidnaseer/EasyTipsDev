@@ -8,11 +8,6 @@ tags: speed, foss, files, zip, zipfiles
 
 ---
 
-<div data-node-type="callout">
-<div data-node-type="callout-emoji">💡</div>
-<div data-node-type="callout-text"><strong>Too Long, Didn't Read: </strong>Use <a target="_blank" rel="noopener noreferrer nofollow" href="https://apps.microsoft.com/detail/nanazip/9N8G7TSCL18R" style="pointer-events: none">NanaZip</a>, which is much faster than the Windows built-in zip tool. If you want more information and proof, read below.</div>
-</div>
-
 It's been eight years since the release of Windows 10 and two years since the release of Windows 11.
 
 Over the years, many improvements have occurred to the Windows Operating System, so it'd be easy to assume Windows has the best zip file achieving and reading system.
@@ -20,6 +15,13 @@ Over the years, many improvements have occurred to the Windows Operating System,
 Unfortunately, as of now, that is not the case. So I sought to write this article to save my readers their precious time with a faster tool.
 
 I'll share the tool, its history, and a comparison of the speeds of the tool compared with the native Windows zip tool.
+
+**Too Long, Didn't Read:** Use [NanaZip](https://apps.microsoft.com/detail/nanazip/9N8G7TSCL18R), which is much faster than the Windows built-in zip tool. If you want more information and proof, read below.
+
+<div data-node-type="callout">
+<div data-node-type="callout-emoji">💡</div>
+<div data-node-type="callout-text"><strong>Too Long, Didn't Read: </strong>Use <a target="_blank" rel="noopener noreferrer nofollow" href="https://apps.microsoft.com/detail/nanazip/9N8G7TSCL18R" style="pointer-events: none">NanaZip</a>, which is much faster than the Windows built-in zip tool. If you want more information and proof, read below.</div>
+</div>
 
 ## Why is the Windows Zip Tool Slow
 
